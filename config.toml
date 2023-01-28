@@ -1,0 +1,4 @@
+baseURL = 'mcjbk.pl'
+languageCode = 'pl'
+title = 'Strona testowa'
+theme = 'ananke'
