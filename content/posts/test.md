@@ -1,7 +1,7 @@
 ---
 title: "Test"
 date: 2023-01-28T21:25:40+01:00
-draft: true
+draft: false
 ---
 
 ## Cześć to jest test
