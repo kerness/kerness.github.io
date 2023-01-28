@@ -1,4 +1,4 @@
-baseURL = 'mcjbk.pl'
+baseURL = 'https://kerness.github.io'
 languageCode = 'pl'
 title = 'Strona testowa'
 theme = 'ananke'
